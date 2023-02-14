@@ -1,0 +1,1082 @@
+[
+ {
+  "CITY_ID": "a5f25b7c-7d2e-4fc4-bf8c-10a350f8f5c1",
+  "MERCHANT_NAME": "The Golden Falcon"
+ },
+ {
+  "CITY_ID": "9ec900c3-2cf7-4b79-83c7-a55a62f2160e",
+  "MERCHANT_NAME": "The Sorcerer's Sanctum"
+ },
+ {
+  "CITY_ID": "748f0851-a473-4e64-824a-37b2d8fe5454",
+  "MERCHANT_NAME": "The Mystic Bazaar"
+ },
+ {
+  "CITY_ID": "748f0851-a473-4e64-824a-37b2d8fe5454",
+  "MERCHANT_NAME": "The Mage's Magic"
+ },
+ {
+  "CITY_ID": "748f0851-a473-4e64-824a-37b2d8cy5454",
+  "MERCHANT_NAME": "Berserker's Helmets"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Hyperspace Hub"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Wormhole Wonders"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Chrono Commerce"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "The Enchanted Cottage"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Elysium Emporium"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "The Tourmaline Tavern"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "The Binary Boutique"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Warp Wing Warehouse"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Hacker's Hideout"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Nova Necessities"
+ },
+ {
+  "CITY_ID": "5089d33a-430f-469f-b2ed-9a79ece5a106",
+  "MERCHANT_NAME": "Chronos Corner"
+ },
+ {
+  "CITY_ID": "c0732424-efea-4a5a-aa60-29d34776490a",
+  "MERCHANT_NAME": "The Iron Unicorn"
+ },
+ {
+  "CITY_ID": "c0732424-efea-4a5a-aa60-29d34776490a",
+  "MERCHANT_NAME": "Vortex Ventures"
+ },
+ {
+  "CITY_ID": "c0732424-efea-4a5a-aa60-29d34776490a",
+  "MERCHANT_NAME": "The Mage's Magellan"
+ },
+ {
+  "CITY_ID": "c3b4c193-8e82-4a5b-93e4-b75a605252ce",
+  "MERCHANT_NAME": "Alien Arcadia"
+ },
+ {
+  "CITY_ID": "ba972615-304b-45c8-9f50-d344e9809ded",
+  "MERCHANT_NAME": "The Witch's Brew"
+ },
+ {
+  "CITY_ID": "d89d909d-b139-454c-ba6b-6a3bc757cb8d",
+  "MERCHANT_NAME": "Black Hole Bazaar"
+ },
+ {
+  "CITY_ID": "02c2a171-2b8e-4415-bf37-359f36a38b94",
+  "MERCHANT_NAME": "Omega Outpost"
+ },
+ {
+  "CITY_ID": "d14cae82-582a-4c8f-85b0-79b52ae22e5e",
+  "MERCHANT_NAME": "The Iron Panther"
+ },
+ {
+  "CITY_ID": "d14cae82-582a-4c8f-85b0-79b52ae22e5e",
+  "MERCHANT_NAME": "Astro-Tech"
+ },
+ {
+  "CITY_ID": "1cd2e4a1-b38e-4de7-b015-54e7e03238a7",
+  "MERCHANT_NAME": "Neon Nucleus"
+ },
+ {
+  "CITY_ID": "56c1f4e9-039c-42a0-b5db-d2ad47c76cd4",
+  "MERCHANT_NAME": "The Ranger's Retreat"
+ },
+ {
+  "CITY_ID": "f0ea1926-418a-482f-94ff-7b0943dd96df",
+  "MERCHANT_NAME": "The Golden Goose"
+ },
+ {
+  "CITY_ID": "f0ea1926-418a-482f-94ff-7b0943dd96df",
+  "MERCHANT_NAME": "Eclipse Enterprises"
+ },
+ {
+  "CITY_ID": "f0ea1926-418a-482f-94ff-7b0943dd96df",
+  "MERCHANT_NAME": "Cyberpunk Couture"
+ },
+ {
+  "CITY_ID": "f0ea1926-418a-482f-94ff-7b0943dd96df",
+  "MERCHANT_NAME": "Cyber City"
+ },
+ {
+  "CITY_ID": "f0ea1926-418a-482f-94ff-7b0943dd96df",
+  "MERCHANT_NAME": "The Jade Jungle"
+ },
+ {
+  "CITY_ID": "066abb0f-73d6-4cb5-b2ae-59dfeaff009b",
+  "MERCHANT_NAME": "The Mage's Menagerie"
+ },
+ {
+  "CITY_ID": "ef5dc879-84ff-4a79-a357-5ecffcdec2b4",
+  "MERCHANT_NAME": "Pixel Palace"
+ },
+ {
+  "CITY_ID": "96f6356a-59c7-471e-9f19-3ca62c1eb3a8",
+  "MERCHANT_NAME": "Futurist Finds"
+ },
+ {
+  "CITY_ID": "7cc00a5d-b198-4493-afed-8bfd4be5dde0",
+  "MERCHANT_NAME": "The Matrix Mart"
+ },
+ {
+  "CITY_ID": "9799a8d3-06e3-4d4e-9b52-aabf6e99bdc7",
+  "MERCHANT_NAME": "The Spellbound Shop"
+ },
+ {
+  "CITY_ID": "c0896a2e-27fd-479a-8414-be169fb53ae9",
+  "MERCHANT_NAME": "Vortex Village"
+ },
+ {
+  "CITY_ID": "c29021ab-396b-4899-ad17-7cf0b1207e8d",
+  "MERCHANT_NAME": "Futuristic Finds"
+ },
+ {
+  "CITY_ID": "c7efc597-d095-4ad9-a48e-7f801939a833",
+  "MERCHANT_NAME": "The Star Trader"
+ },
+ {
+  "CITY_ID": "8b5b745c-6f02-48d4-aec7-3d5d163218e8",
+  "MERCHANT_NAME": "The Golden Griffin"
+ },
+ {
+  "CITY_ID": "6ca940e5-2bf1-4b64-b0d1-b68846b41a2d",
+  "MERCHANT_NAME": "Virtual Ventures"
+ },
+ {
+  "CITY_ID": "b9c156e7-95b5-4acf-b171-17666783f42a",
+  "MERCHANT_NAME": "Wormhole Way"
+ },
+ {
+  "CITY_ID": "d6462392-14fb-4350-876e-b8ace5bd8c86",
+  "MERCHANT_NAME": "The Digital Den"
+ },
+ {
+  "CITY_ID": "d6462392-14fb-4350-876e-b8ace5bd8c86",
+  "MERCHANT_NAME": "The Warlock's Workshop"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "The Onyx Outpost"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "The Citrine Cottage"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "Lunar Lane"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "The Enchanter's Endeavors"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "The Iron Eagle"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "Utopia Union"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "The Digital Emporium"
+ },
+ {
+  "CITY_ID": "4a696675-eaca-4627-b9f4-8137d894c5a4",
+  "MERCHANT_NAME": "The Cyber Emporium"
+ },
+ {
+  "CITY_ID": "60589f4b-279b-4a72-a7f7-34465cc8663b",
+  "MERCHANT_NAME": "The Necromancer's Den"
+ },
+ {
+  "CITY_ID": "e7c4b4ec-599d-4002-af81-b990d550d4bf",
+  "MERCHANT_NAME": "Intergalactic Imports"
+ },
+ {
+  "CITY_ID": "11465cb1-89ea-407f-aa22-0bcac7b58d4b",
+  "MERCHANT_NAME": "The Tech Haven"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "Starbase Station"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "The Digital Bazaar"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "Aurora Avenue"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "The Iron Inn"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "Binary Bazaar"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "The Enchanter's Lair"
+ },
+ {
+  "CITY_ID": "be182273-9842-47b8-adaa-0d9dbc331c7b",
+  "MERCHANT_NAME": "The Azurite Abode"
+ },
+ {
+  "CITY_ID": "1c1bf35f-6607-480e-a666-042690eae1ed",
+  "MERCHANT_NAME": "The Mystic Forge"
+ },
+ {
+  "CITY_ID": "1c1bf35f-6607-480e-a666-042690eae1ed",
+  "MERCHANT_NAME": "Cosmic Connection"
+ },
+ {
+  "CITY_ID": "1c1bf35f-6607-480e-a666-042690eae1ed",
+  "MERCHANT_NAME": "Starlight Marketplace"
+ },
+ {
+  "CITY_ID": "1c1bf35f-6607-480e-a666-042690eae1ed",
+  "MERCHANT_NAME": "Starbase Store"
+ },
+ {
+  "CITY_ID": "1c1bf35f-6607-480e-a666-042690eae1ed",
+  "MERCHANT_NAME": "Warp Wing"
+ },
+ {
+  "CITY_ID": "e9dbb4e5-5229-42b4-bc34-9527b9e16885",
+  "MERCHANT_NAME": "The Starry Store"
+ },
+ {
+  "CITY_ID": "e36326bf-866b-4f61-a570-5b2232b3ea15",
+  "MERCHANT_NAME": "Alien Attire"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "The Magician's Market"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "The Warlock"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "The Silver Serpent"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "The Emerald Emporium"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "The Unicorn's Glade"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "Galactic Emporium"
+ },
+ {
+  "CITY_ID": "8a47fc76-bcb3-459b-9c19-da114fca06f5",
+  "MERCHANT_NAME": "The Wizard's Wardrobe"
+ },
+ {
+  "CITY_ID": "668a585a-625c-456f-8330-27ed238ac704",
+  "MERCHANT_NAME": "Hyperion Hub"
+ },
+ {
+  "CITY_ID": "668a585a-625c-456f-8330-27ed238ac704",
+  "MERCHANT_NAME": "The Bronze Centaur"
+ },
+ {
+  "CITY_ID": "668a585a-625c-456f-8330-27ed238ac704",
+  "MERCHANT_NAME": "The Cyber Shop"
+ },
+ {
+  "CITY_ID": "aaf07b0e-a74b-48df-9b5e-31205d4ff721",
+  "MERCHANT_NAME": "The Data Den"
+ },
+ {
+  "CITY_ID": "aaf07b0e-a74b-48df-9b5e-31205d4ff721",
+  "MERCHANT_NAME": "The Wizard's Staff"
+ },
+ {
+  "CITY_ID": "aaf07b0e-a74b-48df-9b5e-31205d4ff721",
+  "MERCHANT_NAME": "The Grid"
+ },
+ {
+  "CITY_ID": "aaf07b0e-a74b-48df-9b5e-31205d4ff721",
+  "MERCHANT_NAME": "The Alchemist's Atelier"
+ },
+ {
+  "CITY_ID": "aaf07b0e-a74b-48df-9b5e-31205d4ff721",
+  "MERCHANT_NAME": "The Rune Master's Studio"
+ },
+ {
+  "CITY_ID": "9289cc58-065b-4051-b8d0-bab734c622c6",
+  "MERCHANT_NAME": "Parallel Paradigm"
+ },
+ {
+  "CITY_ID": "58833018-9808-4fa8-941b-dc2c30557bb5",
+  "MERCHANT_NAME": "The Illusionist's Den"
+ },
+ {
+  "CITY_ID": "58833018-9808-4fa8-941b-dc2c30557bb5",
+  "MERCHANT_NAME": "The Silver Sanctuary"
+ },
+ {
+  "CITY_ID": "9601dd0e-b1a2-4c28-92b2-7d7c5f37b3ed",
+  "MERCHANT_NAME": "The Magic Lantern"
+ },
+ {
+  "CITY_ID": "7a3e4f43-9ebb-4d2d-8790-31e952408c8d",
+  "MERCHANT_NAME": "The Enchanter's Enchantments"
+ },
+ {
+  "CITY_ID": "7a3e4f43-9ebb-4d2d-8790-31e952408c8d",
+  "MERCHANT_NAME": "The Minotaur's Maze"
+ },
+ {
+  "CITY_ID": "84cf40ae-023a-419e-8651-51868fd01969",
+  "MERCHANT_NAME": "The Dragon's Lair"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "The Chimera's Den"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "The Enchanted Emporium"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "The Faerie Market"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "AstroMart"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "Orbital Outfitters"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "Time Traveler's Trinkets"
+ },
+ {
+  "CITY_ID": "39a60aa2-3660-4cb3-aa12-52a812dae508",
+  "MERCHANT_NAME": "The Digital Domain"
+ },
+ {
+  "CITY_ID": "2389decb-02ab-4028-a187-8d22f984e1cf",
+  "MERCHANT_NAME": "The Cyber Outlet"
+ },
+ {
+  "CITY_ID": "",
+  "MERCHANT_NAME": ""
+ },
+ {
+  "CITY_ID": "41a1f8fc-2f9a-4865-b680-1ea4f9918677",
+  "MERCHANT_NAME": "The Dragon's Den"
+ },
+ {
+  "CITY_ID": "1355b4f1-cc44-4e84-a7a9-4f7a0abd240e",
+  "MERCHANT_NAME": "The Mystic's Den"
+ },
+ {
+  "CITY_ID": "1355b4f1-cc44-4e84-a7a9-4f7a0abd240e",
+  "MERCHANT_NAME": "The Silver Fox"
+ },
+ {
+  "CITY_ID": "1355b4f1-cc44-4e84-a7a9-4f7a0abd240e",
+  "MERCHANT_NAME": "The Necromancer's Necronomicon"
+ },
+ {
+  "CITY_ID": "d0f1a64d-6925-4ce6-a1d1-2bda797c8de5",
+  "MERCHANT_NAME": "The Kraken's Kove"
+ },
+ {
+  "CITY_ID": "a493a468-f9ce-40b4-97e6-a48be4a97c45",
+  "MERCHANT_NAME": "Aether Avenue"
+ },
+ {
+  "CITY_ID": "1d3c7171-4431-4c8f-a133-f95d60f76015",
+  "MERCHANT_NAME": "The Bronze Bull"
+ },
+ {
+  "CITY_ID": "c80508e1-d63b-46ca-b6e7-bfc0955931fa",
+  "MERCHANT_NAME": "The Sorcerer's Satchel"
+ },
+ {
+  "CITY_ID": "c80508e1-d63b-46ca-b6e7-bfc0955931fa",
+  "MERCHANT_NAME": "The Paladin's Armory"
+ },
+ {
+  "CITY_ID": "c80508e1-d63b-46ca-b6e7-bfc0955931fa",
+  "MERCHANT_NAME": "The Warlock's Warlocks"
+ },
+ {
+  "CITY_ID": "7aaabddc-ffc0-4805-b7e2-103b1f5f74ad",
+  "MERCHANT_NAME": "The Leviathan's Larder"
+ },
+ {
+  "CITY_ID": "553b52d2-1eae-460b-bb09-2afd14d3235b",
+  "MERCHANT_NAME": "Parallel Portal"
+ },
+ {
+  "CITY_ID": "553b52d2-1eae-460b-bb09-2afd14d3235b",
+  "MERCHANT_NAME": "The Warp Zone"
+ },
+ {
+  "CITY_ID": "fe2b0d67-cebf-4766-b29a-ac29445522d4 ",
+  "MERCHANT_NAME": "Data Haven"
+ },
+ {
+  "CITY_ID": "fe2b0d67-cebf-4766-b29a-ac29445522d4",
+  "MERCHANT_NAME": "Cybertech"
+ },
+ {
+  "CITY_ID": "f3399145-0069-45ea-a638-5a18d72dbfd2",
+  "MERCHANT_NAME": "Infinity Imports"
+ },
+ {
+  "CITY_ID": "028b9443-d9b5-44c8-aeec-97f0a192fe01",
+  "MERCHANT_NAME": "Dragon's Hoard"
+ },
+ {
+  "CITY_ID": "ae9f965a-2939-461c-ba69-a0374ca37434",
+  "MERCHANT_NAME": "The Sapphire Sanctuary"
+ },
+ {
+  "CITY_ID": "71522ccc-b58b-45ef-b564-6fee280558c1",
+  "MERCHANT_NAME": "The Copper Cottage"
+ },
+ {
+  "CITY_ID": "6100b79d-e5c0-44c4-8b2e-554421baac97",
+  "MERCHANT_NAME": "Solar System Supplies"
+ },
+ {
+  "CITY_ID": "d38e6bad-5223-4061-bfe8-171864caca58",
+  "MERCHANT_NAME": "Aaros Attires"
+ },
+ {
+  "CITY_ID": "d38e6bad-5223-4061-bfe8-171864caca58",
+  "MERCHANT_NAME": "The Iron Gorilla"
+ },
+ {
+  "CITY_ID": "0167ccdd-525d-4988-9a0a-ac17351b0f8e",
+  "MERCHANT_NAME": "Electric Avenue"
+ },
+ {
+  "CITY_ID": "84b033e7-df3c-4b51-8032-2a2022b531f7",
+  "MERCHANT_NAME": "The Warlock's Wands"
+ },
+ {
+  "CITY_ID": "31825ada-8c40-413f-9aaa-7ffaa889c1f9",
+  "MERCHANT_NAME": "The Conjurer's Conjuring"
+ },
+ {
+  "CITY_ID": "70a9caff-aff5-4ec0-918a-16bd0bd9d62e",
+  "MERCHANT_NAME": "Time Traveler's Treasure"
+ },
+ {
+  "CITY_ID": "abdd5b3b-e45f-452c-80e3-bf75f8c154fe",
+  "MERCHANT_NAME": "The Golden Lion"
+ },
+ {
+  "CITY_ID": "abdd5b3b-e45f-452c-80e3-bf75f8c154fe",
+  "MERCHANT_NAME": "The Hackers Hideaway"
+ },
+ {
+  "CITY_ID": "bf78e9c8-4c5d-45e5-a17f-05576d286609",
+  "MERCHANT_NAME": "The Iron Minotaur"
+ },
+ {
+  "CITY_ID": "cfe445dc-14b9-4b13-8f79-cb300e357776",
+  "MERCHANT_NAME": "The Silver Phoenix"
+ },
+ {
+  "CITY_ID": "4de39739-ebfa-4547-9319-d288b59717b9",
+  "MERCHANT_NAME": "The Peridot Palace"
+ },
+ {
+  "CITY_ID": "32aebd43-385c-49c9-903a-46332f08faac",
+  "MERCHANT_NAME": "The Iron Horse"
+ },
+ {
+  "CITY_ID": "32aebd43-385c-49c9-903a-46332f08faac",
+  "MERCHANT_NAME": "Matrix Mart"
+ },
+ {
+  "CITY_ID": "32aebd43-385c-49c9-903a-46332f08faac",
+  "MERCHANT_NAME": "The Gilded Cage"
+ },
+ {
+  "CITY_ID": "32aebd43-385c-49c9-903a-46332f08faac",
+  "MERCHANT_NAME": "Meteor Mall"
+ },
+ {
+  "CITY_ID": "24034848-2f89-4254-897b-9fc3b8678c03",
+  "MERCHANT_NAME": "The Crystal Cottage"
+ },
+ {
+  "CITY_ID": "d6281127-0a5e-446f-8553-a9c7bc448aec",
+  "MERCHANT_NAME": "Celestial Curios"
+ },
+ {
+  "CITY_ID": "d6281127-0a5e-446f-8553-a9c7bc448aec",
+  "MERCHANT_NAME": "The Bronze Elephant"
+ },
+ {
+  "CITY_ID": "f0cb8df8-742e-4e07-b043-d403984320af",
+  "MERCHANT_NAME": "Interstellar Imports"
+ },
+ {
+  "CITY_ID": "f0cb8df8-742e-4e07-b043-d403984320af",
+  "MERCHANT_NAME": "Space Station Selections"
+ },
+ {
+  "CITY_ID": "ebd995b3-aeff-418c-8251-ee99ba454ea7",
+  "MERCHANT_NAME": "The Golden Dragon"
+ },
+ {
+  "CITY_ID": "fa58b8b1-41c3-4e13-bf1d-72e53f5d59ec",
+  "MERCHANT_NAME": "The Sorcerer's Scepter"
+ },
+ {
+  "CITY_ID": "9e15f015-5907-459a-bea0-a5c8473d6921",
+  "MERCHANT_NAME": "Plasma Paradigm"
+ },
+ {
+  "CITY_ID": "1ffbdb61-a796-4347-9a92-b65e2622eb0f",
+  "MERCHANT_NAME": "The Hydra's Lair"
+ },
+ {
+  "CITY_ID": "9a34d29b-2b7a-4fd8-b5ef-0f7392ddeb14",
+  "MERCHANT_NAME": "The Mermaid's Grotto"
+ },
+ {
+  "CITY_ID": "9a34d29b-2b7a-4fd8-b5ef-0f7392ddeb14",
+  "MERCHANT_NAME": "Transcendent Trader"
+ },
+ {
+  "CITY_ID": "ccfcd0c4-ef2e-4bba-a5d3-25df4a322b57",
+  "MERCHANT_NAME": "The Valkyrie's Vault"
+ },
+ {
+  "CITY_ID": "86fb4a51-ad69-4e63-a7bb-c0daa06f0eb6",
+  "MERCHANT_NAME": "The Elementalist's Emporium"
+ },
+ {
+  "CITY_ID": "02cbf504-5bab-4269-93e0-88fce871b4ac",
+  "MERCHANT_NAME": "Silicon Strip"
+ },
+ {
+  "CITY_ID": "02cbf504-5bab-4269-93e0-88fce871b4ac",
+  "MERCHANT_NAME": "The Circuit Board"
+ },
+ {
+  "CITY_ID": "02cbf504-5bab-4269-93e0-88fce871b4ac",
+  "MERCHANT_NAME": "The Silver Tiger"
+ },
+ {
+  "CITY_ID": "02cbf504-5bab-4269-93e0-88fce871b4ac",
+  "MERCHANT_NAME": "The Shadow Market"
+ },
+ {
+  "CITY_ID": "0bd3401e-1943-49f6-91f3-4957df6482e3",
+  "MERCHANT_NAME": "Proxima Station"
+ },
+ {
+  "CITY_ID": "a690c381-7769-49e5-b52f-5c1f648b1587",
+  "MERCHANT_NAME": "The Alexandrite Abode"
+ },
+ {
+  "CITY_ID": "69c4ed25-8528-42b4-8755-a4629f7b5a09",
+  "MERCHANT_NAME": "Cosmic Corner"
+ },
+ {
+  "CITY_ID": "f8daaa0a-b0c2-4b68-b977-07794b1243fc",
+  "MERCHANT_NAME": "The Summoner's Sphere"
+ },
+ {
+  "CITY_ID": "221e9df3-89f8-49f9-ad1d-04bad69463c7",
+  "MERCHANT_NAME": "The Centaur's Stable"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Conjurer's Corner"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Troll's Bridge"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "Skyway Shop"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "Celestial Commodities"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Kyanite Cottage"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "Neon Nexus"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Garnet Grotto"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Summoner's Stockpile"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Goblin's Lair"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "Chrome City"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "Meteor Mercantile"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Lapis Lazuli Lodge"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Diamond Den"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "The Sorcerer's Apothecary"
+ },
+ {
+  "CITY_ID": "4e09f3bf-67b6-4bec-b955-869bd1d96bb6",
+  "MERCHANT_NAME": "Eternal Emporium"
+ },
+ {
+  "CITY_ID": "3e4bc4bf-85b7-4e48-afe1-caa19397a6ac",
+  "MERCHANT_NAME": "The Bronze Bear"
+ },
+ {
+  "CITY_ID": "21f7073f-925b-4d77-841c-fc0c8c34df78",
+  "MERCHANT_NAME": "Lunar Luxuries"
+ },
+ {
+  "CITY_ID": "21f7073f-925b-4d77-841c-fc0c8c34df78",
+  "MERCHANT_NAME": "The Cyber Cafe"
+ },
+ {
+  "CITY_ID": "21f7073f-925b-4d77-841c-fc0c8c34df78",
+  "MERCHANT_NAME": "The Druid's Den"
+ },
+ {
+  "CITY_ID": "e2400bd6-0cb5-465a-bc67-01b3f04da28e",
+  "MERCHANT_NAME": "The Spinel Sanctuary"
+ },
+ {
+  "CITY_ID": "e9a09a56-0969-4ff4-9bf2-a583e833c760",
+  "MERCHANT_NAME": "The Sorcerer's Supplies"
+ },
+ {
+  "CITY_ID": "dd2ea3ef-c80e-4410-a807-c725093ddd1e",
+  "MERCHANT_NAME": "The Zircon Ziggurat"
+ },
+ {
+  "CITY_ID": "dd2ea3ef-c80e-4410-a807-c725093ddd1e",
+  "MERCHANT_NAME": "The Golden Bear"
+ },
+ {
+  "CITY_ID": "406214ea-a007-434f-852a-0d8c2bdad2a6",
+  "MERCHANT_NAME": "The Necromancer's Necessities"
+ },
+ {
+  "CITY_ID": "4e4034dc-ec70-4807-b6c8-38e107231638",
+  "MERCHANT_NAME": "Quantum Quarters"
+ },
+ {
+  "CITY_ID": "17fbc056-4e9d-4802-86c9-22a00c2f43bb",
+  "MERCHANT_NAME": "The Conjurer's Conjurings"
+ },
+ {
+  "CITY_ID": "4cef9c8a-0787-4f8d-b542-e8397d1d0942",
+  "MERCHANT_NAME": "Skyway Specialties"
+ },
+ {
+  "CITY_ID": "4cef9c8a-0787-4f8d-b542-e8397d1d0942",
+  "MERCHANT_NAME": "The Network"
+ },
+ {
+  "CITY_ID": "4cef9c8a-0787-4f8d-b542-e8397d1d0942",
+  "MERCHANT_NAME": "The Pearl Palace"
+ },
+ {
+  "CITY_ID": "4cef9c8a-0787-4f8d-b542-e8397d1d0942",
+  "MERCHANT_NAME": "The Byte Bazaar"
+ },
+ {
+  "CITY_ID": "4cef9c8a-0787-4f8d-b542-e8397d1d0942",
+  "MERCHANT_NAME": "Plasma Plaza"
+ },
+ {
+  "CITY_ID": "4b141606-f401-4348-b093-d9ed48c4d337",
+  "MERCHANT_NAME": "Lunar Lane"
+ },
+ {
+  "CITY_ID": "4b141606-f401-4348-b093-d9ed48c4d337",
+  "MERCHANT_NAME": "The Golden Cobra"
+ },
+ {
+  "CITY_ID": "a9c6fb0d-cbe6-4bdb-b8fc-211f2e5c73a2",
+  "MERCHANT_NAME": "Nebula Nook"
+ },
+ {
+  "CITY_ID": "65dcf0ec-dccf-45bf-8d3c-c77a38a118c0",
+  "MERCHANT_NAME": "The Necromancer's Necromancy"
+ },
+ {
+  "CITY_ID": "d0bf05c9-9284-4f66-ad6f-cb6b821e7da0",
+  "MERCHANT_NAME": "Nova Nook"
+ },
+ {
+  "CITY_ID": "d0bf05c9-9284-4f66-ad6f-cb6b821e7da0",
+  "MERCHANT_NAME": "The Sorcerer's Sorcery"
+ },
+ {
+  "CITY_ID": "ba9591b8-cdec-4dbb-a4dc-ddef72432bba",
+  "MERCHANT_NAME": "The Malachite Manor"
+ },
+ {
+  "CITY_ID": "ba9591b8-cdec-4dbb-a4dc-ddef72432bba",
+  "MERCHANT_NAME": "The Iron Tiger"
+ },
+ {
+  "CITY_ID": "ba9591b8-cdec-4dbb-a4dc-ddef72432bba",
+  "MERCHANT_NAME": "The Morganite Mansion"
+ },
+ {
+  "CITY_ID": "ba9591b8-cdec-4dbb-a4dc-ddef72432bba",
+  "MERCHANT_NAME": "The Cyber Cottage"
+ },
+ {
+  "CITY_ID": "ba9591b8-cdec-4dbb-a4dc-ddef72432bba",
+  "MERCHANT_NAME": "The Bronze Lion"
+ },
+ {
+  "CITY_ID": "82275bec-4fa5-43ab-8c7f-df34ec488dda",
+  "MERCHANT_NAME": "Alien Avenue"
+ },
+ {
+  "CITY_ID": "149d6948-8603-484c-bc4c-fa585f69a0a4",
+  "MERCHANT_NAME": "The Circuit"
+ },
+ {
+  "CITY_ID": "5d49f70f-8361-4155-b494-cf5b20bc5ca8",
+  "MERCHANT_NAME": "Tesseract Tavern"
+ },
+ {
+  "CITY_ID": "cfa45734-76e1-49c4-a701-1d31c0baa7f7",
+  "MERCHANT_NAME": "The Summoner's Sanctuary"
+ },
+ {
+  "CITY_ID": "019f6844-21ea-4829-bf7c-f8f9eb4ecbff",
+  "MERCHANT_NAME": "The Opal Outpost"
+ },
+ {
+  "CITY_ID": "a443137a-1a9b-4ba0-bbd5-5e774f160d1c",
+  "MERCHANT_NAME": "The Mystic's Menagerie"
+ },
+ {
+  "CITY_ID": "8de76179-c92c-4fab-badb-5b0b74c59f38",
+  "MERCHANT_NAME": "The Tanzanite Temple"
+ },
+ {
+  "CITY_ID": "35cba786-0190-4ef5-89e7-ea99010d4f9d",
+  "MERCHANT_NAME": "The Bronze Gorilla"
+ },
+ {
+  "CITY_ID": "d90e4fe5-aa9a-4fcc-8c43-e4cacfe64b4f",
+  "MERCHANT_NAME": "The Warlock's Wares"
+ },
+ {
+  "CITY_ID": "96e36cda-21af-49a8-873b-0c6fe2b9e5e1",
+  "MERCHANT_NAME": "The Sorcerer's Den"
+ },
+ {
+  "CITY_ID": "5d81e519-eb1b-4d23-bbe1-04a8030910bc",
+  "MERCHANT_NAME": "The Wizard's Workshop"
+ },
+ {
+  "CITY_ID": "4d0c68a2-562d-422f-af9d-9864e2d5aa5b",
+  "MERCHANT_NAME": "The Enchantress's Emporium"
+ },
+ {
+  "CITY_ID": "45977f32-cc4c-4f91-a067-593bab7677f3",
+  "MERCHANT_NAME": "Aaros Attires"
+ },
+ {
+  "CITY_ID": "45977f32-cc4c-4f91-a067-593bab7677f3",
+  "MERCHANT_NAME": "The Dragon's Hoard"
+ },
+ {
+  "CITY_ID": "cd941c4d-d831-4837-96dc-3f07624ee81e",
+  "MERCHANT_NAME": "Singularity Supply"
+ },
+ {
+  "CITY_ID": "a17f262b-6bd8-4184-a5c9-b67e909a40cc",
+  "MERCHANT_NAME": "The Silver Swan"
+ },
+ {
+  "CITY_ID": "a17f262b-6bd8-4184-a5c9-b67e909a40cc",
+  "MERCHANT_NAME": "The Topaz Tavern"
+ },
+ {
+  "CITY_ID": "fca7ec84-a7f8-4e74-a976-23317af8e2bb",
+  "MERCHANT_NAME": "The Aquamarine Abode"
+ },
+ {
+  "CITY_ID": "fca7ec84-a7f8-4e74-a976-23317af8e2bb",
+  "MERCHANT_NAME": "The Ruby Retreat"
+ },
+ {
+  "CITY_ID": "fca7ec84-a7f8-4e74-a976-23317af8e2bb",
+  "MERCHANT_NAME": "The Pixel Pit"
+ },
+ {
+  "CITY_ID": "ee3f8f94-0e1c-4f5e-8eb9-d46004a582d1",
+  "MERCHANT_NAME": "The Turquoise Tavern"
+ },
+ {
+  "CITY_ID": "5795aa41-25da-45ea-98fb-7cc209b4ebbf",
+  "MERCHANT_NAME": "The Cleric's Censer"
+ },
+ {
+  "CITY_ID": "5795aa41-25da-45ea-98fb-7cc209b4ebbf",
+  "MERCHANT_NAME": "Stellar Solutions"
+ },
+ {
+  "CITY_ID": "5795aa41-25da-45ea-98fb-7cc209b4ebbf",
+  "MERCHANT_NAME": "The Virtual Marketplace"
+ },
+ {
+  "CITY_ID": "01af5eb2-d841-4add-bd37-c6504d385849",
+  "MERCHANT_NAME": "The Enchanter's Emporium"
+ },
+ {
+  "CITY_ID": "01af5eb2-d841-4add-bd37-c6504d385849",
+  "MERCHANT_NAME": "Ultraviolet Outfitters"
+ },
+ {
+  "CITY_ID": "01af5eb2-d841-4add-bd37-c6504d385849",
+  "MERCHANT_NAME": "The Bard's Lute"
+ },
+ {
+  "CITY_ID": "01af5eb2-d841-4add-bd37-c6504d385849",
+  "MERCHANT_NAME": "The Bronze Dragon"
+ },
+ {
+  "CITY_ID": "575ac594-9790-4052-98cd-bc47ea8bf8c6",
+  "MERCHANT_NAME": "The Golden Phoenix"
+ },
+ {
+  "CITY_ID": "575ac594-9790-4052-98cd-bc47ea8bf8c6",
+  "MERCHANT_NAME": "The Heliodor Haven"
+ },
+ {
+  "CITY_ID": "575ac594-9790-4052-98cd-bc47ea8bf8c6",
+  "MERCHANT_NAME": "The Wired World"
+ },
+ {
+  "CITY_ID": "431bea5a-a127-4880-a235-99828d014fce",
+  "MERCHANT_NAME": "Hyperspace Haven"
+ },
+ {
+  "CITY_ID": "eb9a8a66-3015-48cb-9386-99c6c1b19aa7",
+  "MERCHANT_NAME": "The Moonstone Manor"
+ },
+ {
+  "CITY_ID": "8642c537-1756-4928-b5cf-31242bea2832",
+  "MERCHANT_NAME": "The Enchanter's Enchantment"
+ },
+ {
+  "CITY_ID": "a43c293e-8ead-48df-8b80-33a8b6a86d9d",
+  "MERCHANT_NAME": "Galaxy Gifts"
+ },
+ {
+  "CITY_ID": "5b6916f0-c8e4-43a6-8055-241ca7dd9dcb",
+  "MERCHANT_NAME": "The Bronze Boutique"
+ },
+ {
+  "CITY_ID": "5b6916f0-c8e4-43a6-8055-241ca7dd9dcb",
+  "MERCHANT_NAME": "The Rustic Retreat"
+ },
+ {
+  "CITY_ID": "5b6916f0-c8e4-43a6-8055-241ca7dd9dcb",
+  "MERCHANT_NAME": "The Silver Wolf"
+ },
+ {
+  "CITY_ID": "5b6916f0-c8e4-43a6-8055-241ca7dd9dcb",
+  "MERCHANT_NAME": "The Necromancer's Nook"
+ },
+ {
+  "CITY_ID": "5b6916f0-c8e4-43a6-8055-241ca7dd9dcb",
+  "MERCHANT_NAME": "Supernova Surplus"
+ },
+ {
+  "CITY_ID": "254fba22-02d2-4b81-9867-6dbc52447ba9",
+  "MERCHANT_NAME": "Nirvana Nook"
+ },
+ {
+  "CITY_ID": "62187884-96c6-407b-8381-30367f02bc23",
+  "MERCHANT_NAME": "The Cyber Cellar"
+ },
+ {
+  "CITY_ID": "01096b1b-0684-45f2-bfe6-ffd0c25c64fb",
+  "MERCHANT_NAME": "The Virtual Shop"
+ },
+ {
+  "CITY_ID": "f88cd43e-543b-410d-8665-226d14731a27",
+  "MERCHANT_NAME": "The Silver Mermaid"
+ },
+ {
+  "CITY_ID": "f88cd43e-543b-410d-8665-226d14731a27",
+  "MERCHANT_NAME": "The Conjurer's Cabinet"
+ },
+ {
+  "CITY_ID": "e05f54f5-0175-43c9-8ce0-0fc12c09846e",
+  "MERCHANT_NAME": "The Ogre's Den"
+ },
+ {
+  "CITY_ID": "e05f54f5-0175-43c9-8ce0-0fc12c09846e",
+  "MERCHANT_NAME": "Zephyr Zones"
+ },
+ {
+  "CITY_ID": "e05f54f5-0175-43c9-8ce0-0fc12c09846e",
+  "MERCHANT_NAME": "The Amethyst Asylum"
+ },
+ {
+  "CITY_ID": "e05f54f5-0175-43c9-8ce0-0fc12c09846e",
+  "MERCHANT_NAME": "Eclipse Emporium"
+ },
+ {
+  "CITY_ID": "e05f54f5-0175-43c9-8ce0-0fc12c09846e",
+  "MERCHANT_NAME": "The Mage's Magicks"
+ },
+ {
+  "CITY_ID": "e05f54f5-0175-43c9-8ce0-0fc12c09846e",
+  "MERCHANT_NAME": "The Silicon Strip"
+ },
+ {
+  "CITY_ID": "c3b5aeb0-9f5b-4ffe-aa37-5ccc307745bf",
+  "MERCHANT_NAME": "The Velvet Vault"
+ },
+ {
+  "CITY_ID": "c3b5aeb0-9f5b-4ffe-aa37-5ccc307745bf",
+  "MERCHANT_NAME": "The Paladin's Provisions"
+ },
+ {
+  "CITY_ID": "c3b5aeb0-9f5b-4ffe-aa37-5ccc307745bf",
+  "MERCHANT_NAME": "Neon Noir"
+ },
+ {
+  "CITY_ID": "c3b5aeb0-9f5b-4ffe-aa37-5ccc307745bf",
+  "MERCHANT_NAME": "The Knight's Quartermaster"
+ },
+ {
+  "CITY_ID": "c3b5aeb0-9f5b-4ffe-aa37-5ccc307745bf",
+  "MERCHANT_NAME": "The Druid's Delights"
+ },
+ {
+  "CITY_ID": "650eb302-598f-477f-b6ea-1acdcf9762a0",
+  "MERCHANT_NAME": "The Druid's Druidry"
+ },
+ {
+  "CITY_ID": "93c8df50-9a48-4901-88a8-3de95a238d8f",
+  "MERCHANT_NAME": "The Druid's Dreamcatcher"
+ },
+ {
+  "CITY_ID": "d6184029-7ecc-4a19-befe-01c350fb6c33",
+  "MERCHANT_NAME": "Cosmic Confections"
+ },
+ {
+  "CITY_ID": "cd796fd0-664e-4a2b-8a18-41e28c5d209e",
+  "MERCHANT_NAME": "The Magikal Mart"
+ },
+ {
+  "CITY_ID": "7bfc8f3a-7ea8-43da-8b29-ed032354d891",
+  "MERCHANT_NAME": "Nebula Naturals"
+ },
+ {
+  "CITY_ID": "ffb54286-17d1-4c0f-b80d-6b9f1b0594d4",
+  "MERCHANT_NAME": "Singularity Shop"
+ },
+ {
+  "CITY_ID": "bcfc0a06-005e-426a-a95d-bae56603fd44",
+  "MERCHANT_NAME": "The Druid's Grove"
+ },
+ {
+  "CITY_ID": "bcfc0a06-005e-426a-a95d-bae56603fd44",
+  "MERCHANT_NAME": "The Sunstone Sanctuary"
+ },
+ {
+  "CITY_ID": "bcfc0a06-005e-426a-a95d-bae56603fd44",
+  "MERCHANT_NAME": "Stellar Station"
+ },
+ {
+  "CITY_ID": "bcfc0a06-005e-426a-a95d-bae56603fd44",
+  "MERCHANT_NAME": "Sannas Magic Scrolls"
+ },
+ {
+  "CITY_ID": "bcfc0a06-005e-426a-a95d-bae56603fd44",
+  "MERCHANT_NAME": "Johannes Wrestling Store"
+ },
+ {
+  "CITY_ID": "b7350a0e-f8db-4691-a338-e0baed1d5324",
+  "MERCHANT_NAME": "Anssis Analysis"
+ },
+ {
+  "CITY_ID": "d2097f3b-72e9-4cf6-9b22-b7ee41d194bf",
+  "MERCHANT_NAME": "Aaros Attires"
+ },
+ {
+  "CITY_ID": "d2097f3b-72e9-4cf6-9b22-b7ee41d194bf",
+  "MERCHANT_NAME": "Tommis Tomahawks"
+ }
+]
