@@ -97,3 +97,4 @@ def draw_graph(dataframe: pd.DataFrame):
     fig.update_traces(textposition='top center')
     fig.write_image("mordor_scatterplot.png")
     fig.show()
+    
